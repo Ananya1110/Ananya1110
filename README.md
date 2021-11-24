@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ananya Upadhyay
 - Currently pursuing B.Tech CSE from Amity University,Lucknow
 - 👀 I’m interested in Front-end Development 
-- 🌱 I’m currently learning Ionic Frame Work,Cloud Computing Fundamentals
+- 🌱 I’m currently learning Ionic Frame Work,Angular 
 - 📫 How to reach me @ananyaupadhyay.contact@gmail.com
 
 <!---
